@@ -1,7 +1,7 @@
 # Lessons Learned links
 ## Example folder structure
 ```
-/Data Collection
+/Lessons Learned
 | Authorities-and-communities.md
 | guides.md
 | papers.md

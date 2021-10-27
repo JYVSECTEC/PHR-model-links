@@ -1,7 +1,7 @@
 # Preparation links
 ## Example folder structure
 ```
-/Data Collection
+/Preparation
 | Authorities-and-communities.md
 | guides.md
 | papers.md

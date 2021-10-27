@@ -1,7 +1,7 @@
 # Playbooks links
 ## Example folder structure
 ```
-/Data Collection
+/Playbooks
 | Authorities-and-communities.md
 | guides.md
 | papers.md

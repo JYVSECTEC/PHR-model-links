@@ -1,7 +1,7 @@
 # Hypotheses links
 ## Example folder structure
 ```
-/Data Collection
+/Hypotheses
 | Authorities-and-communities.md
 | guides.md
 | papers.md

@@ -1,7 +1,7 @@
 # Eradicate-Recover links
 ## Example folder structure
 ```
-/Data Collection
+/Eradicate-Recover
 | Authorities-and-communities.md
 | guides.md
 | papers.md

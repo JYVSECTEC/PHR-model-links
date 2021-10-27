@@ -1,7 +1,7 @@
 # Enrichment links
 ## Example folder structure
 ```
-/Data Collection
+/Enrichment
 | Authorities-and-communities.md
 | guides.md
 | papers.md

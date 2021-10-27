@@ -1,7 +1,7 @@
 # Triage-Respond links
 ## Example folder structure
 ```
-/Data Collection
+/Triage-Respond
 | Authorities-and-communities.md
 | guides.md
 | papers.md

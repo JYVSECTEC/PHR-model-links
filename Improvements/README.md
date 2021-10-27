@@ -1,7 +1,7 @@
 # Improvements links
 ## Example folder structure
 ```
-/Data Collection
+/Improvements
 | Authorities-and-communities.md
 | guides.md
 | papers.md
