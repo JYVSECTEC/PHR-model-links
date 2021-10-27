@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Trigger jekyll workflow on jyvsectec.github.io repo
+        run: |
+          curl -XPOST \
+            -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Content-Type: application/json" https://api.github.com/repos/JYVSECTEC/jyvsectec.github.io/actions/workflows/jekyll.yml/dispatches \
+            --data '{"ref": "main"}'
