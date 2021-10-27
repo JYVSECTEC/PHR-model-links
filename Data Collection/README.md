@@ -2,12 +2,13 @@
 ## Example folder structure
 ```
 /Data Collection
-| blogs.md
-| contributes.md
+| Authorities-and-communities.md
 | guides.md
 | papers.md
-| resources.md
+| blogs.md
 | tools.md
+| resources.md
+| contributes.md
 ```
 ## Example markdown file (guides.md)
 
