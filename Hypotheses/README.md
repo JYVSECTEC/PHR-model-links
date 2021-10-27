@@ -2,7 +2,7 @@
 ## Example folder structure
 ```
 /Hypotheses
-| Authorities-and-communities.md
+| Authorities and communities.md
 | guides.md
 | papers.md
 | blogs.md
