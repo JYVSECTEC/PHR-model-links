@@ -23,3 +23,4 @@
 * [Online Banking Security Analysis based on STRIDE Threat Model](http://article.nadiapub.com/IJSIA/vol8_no2/28.pdf) - Paper about combining STRIDE and threat tree methods for evaluating security threats of online banking.
 * [A Hybrid Threat Modeling Method](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2018_004_001_516627.pdf) - Paper about development of Hybrid Threat Modeling Method (hTMM).
 * [Trike v.1 Methodology Document - Draft](https://www.octotrike.org/papers/Trike_v1_Methodology_Document-draft.pdf) - Trike V.1 method documentation draft.
+* [Evaluation of Threat Modeling Methodologies](https://urn.fi/URN:NBN:fi:amk-2019060615264) - The focus of the research was on existing threat modeling frameworks and methodologies. Different frameworks were studied in order to discover if any complete and mature enough methodology exists or how the different methods can be combined if necessary. 
