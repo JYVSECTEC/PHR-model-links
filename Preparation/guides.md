@@ -1,0 +1,1 @@
+* [Incident management guide for healthcare organizations](https://jyvsectec.fi/wp-content/uploads/2020/12/kyberhairioiden-hallinta-kasikirja-terveydenhuollon-toimijoille.pdf) - Freely available incident management guide targeted for the Finnish healthcare organizations and operators by JYVSECTEC
