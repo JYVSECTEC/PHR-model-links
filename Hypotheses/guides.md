@@ -1,0 +1,6 @@
+* [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) - Risk Assessment Guide developed by NIST.
+* [The Reporting of Organizational Risks for Internal and External Decision-Making](https://www.cimaglobal.com/Documents/ImportedDocuments/Tech_MAG_Reporting_Organisational_Risks_for_Decision_Making_Sept06.pdf) - Provides guidance on reporting risks and making decisions.
+* [GETTING STARTED WITH ATT&CK](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf) - Guide to MITRE's ATT&CK knowledge base.
+* [OCTAVE®-S Implementation Guide, Version 1.0](https://resources.sei.cmu.edu/asset_files/Handbook/2005_002_001_14273.pdf) - OCTAVE-S 1.0 implementation guide.
+* [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf) - OWASP testing guide version 4.0.
+* [WSTG - v4.1](https://owasp.org/www-project-web-security-testing-guide/v41/) - OWASP web security testing guide version 4.1.
