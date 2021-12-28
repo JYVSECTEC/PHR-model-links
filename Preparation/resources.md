@@ -20,6 +20,7 @@
 **Training**
 
 * [Cyber Defenders BlueYard: Practise Offline CTF Challenges](https://cyberdefenders.org/labs/)
+* [SANS Summit Presentations](https://www.sans.org/presentations/) - Archive of presentations from SANS's summits. Excellent resource to train yourself on various topics
 
 **Books**
 
