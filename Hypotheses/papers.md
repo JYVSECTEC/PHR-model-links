@@ -1,3 +1,5 @@
+* [The Unified Kill Chain - RAISING RESILIENCE AGAINST ADVANCED CYBER ATTACKS
+ ](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf) - Research shows that the traditional Cyber Kill Chain® (CKC), as presented by researchers of Lockheed Martin, is perimeter- and malware-focused. As such, the traditional model fails to cover other attack vectors and attacks that occur behind the organizational perimeter. The Unified Kill Chain offers significant improvements over these scope limitations of the CKC and the time-agnostic nature of the tactics in MITRE’s ATT&CKTM model (ATT&CK)
 * [OWASP Top 10](https://owasp.org/Top10/) - OWASP foundation's top web application security vulnerabilities of 2021.
 * [CVSS version 3.1: Specification Document](https://www.first.org/cvss/specification-document) - Documentation of CVSS version 3.1 by FIRST.
 * [NIST: Risk Management Framework for Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf) - NIST's risk management framework and guidelines for applying it to information systems and organisations.
