@@ -1,3 +1,5 @@
+* [Best Practices for MITRE ATT&CK® Mapping](https://www.cisa.gov/uscert/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf) - CISA is providing this guidance to help analysts accurately and consistently map adversary behaviors to the relevant ATT&CK techniques as part of cyber threat intelligence (CTI)—whether the analyst wishes to incorporate ATT&CK into a cybersecurity
+publication or an analysis of raw data.
 * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) - Risk Assessment Guide developed by NIST.
 * [The Reporting of Organizational Risks for Internal and External Decision-Making](https://www.cimaglobal.com/Documents/ImportedDocuments/Tech_MAG_Reporting_Organisational_Risks_for_Decision_Making_Sept06.pdf) - Provides guidance on reporting risks and making decisions.
 * [GETTING STARTED WITH ATT&CK](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf) - Guide to MITRE's ATT&CK knowledge base.
