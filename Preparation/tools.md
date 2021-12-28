@@ -11,6 +11,15 @@
 * [Elastic SIEM](https://www.elastic.co/siem) - Everything you love about the free and open Elastic Stack — geared toward security information and event management (SIEM). Leverage the speed, scale, and relevance of Elastic SIEM to drive your security operations and threat hunting.
 * [MISP](https://www.misp-project.org/) - Malware Information Sharing Platform is a threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information.
 * [TheHive](https://thehive-project.org/) - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP (Malware Information Sharing Platform), designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly
+* [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+* [whids: Open source EDR for Windows](https://github.com/0xrawsec/whids)
+* [APTSimulator](https://github.com/NextronSystems/APTSimulator)
+* [Project Freda. Free Linux Forensics and Rootkit Malware Detection](https://www.microsoft.com/en-us/research/blog/toward-trusted-sensing-for-the-cloud-introducing-project-freta/)
+* [OSINT Framework](https://osintframework.com/)
+* [Cincan](https://cincan.io/)
+* [Cincan infosec tools](https://cincan.gitlab.io/infosec-tools/)
+* [OpenCTI](https://www.opencti.io/en/)
+* [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md)
 
 ### AI-enhanced security tools
 
