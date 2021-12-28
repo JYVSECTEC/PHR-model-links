@@ -17,10 +17,6 @@
 * [SANS Webcasts](https://www.sans.org/webcasts/)
 
 
-**Blogs**
-
-* [Cobalt Strike: Defenders Guide](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
-
 **Training**
 
 * [Cyber Defenders BlueYard: Practise Offline CTF Challenges](https://cyberdefenders.org/labs/)
