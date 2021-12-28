@@ -5,3 +5,27 @@
 * [Windows EVTX Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows event logs from different types of attacks, mapped to MITRE ATT&CK tactics. Useful for practicing log analysis and threat hunting.
 * [Kybermittari](https://www.kyberturvallisuuskeskus.fi/fi/palvelumme/tilannekuva-ja-verkostojohtaminen/kybermittari) - Incident management and handling tool for Finnish organizations by NSCS-FI
 * [Infection Monkey](https://github.com/guardicore/monkey)- An open-source automated penetration testing tool. The tool utilizes a server to command and visualize the exploitation of vulnerable devices in the network. The tool generates a overview security report, a zero trust report and a list of MITRE ATT&CK techniques used. 
+
+### AI-enhanced security tools
+
+**Amazon Web Services**
+
+* [Using Amazon GuardDuty to protect your S3 buckets](https://aws.amazon.com/blogs/aws/new-using-amazon-guardduty-to-protect-your-s3-buckets/) - monitors AWS account, workload and data activity in Amazon S3, raises alerts in case suspicious activity is detected.
+* [Classifying sensitive data with Amazon Macie](https://aws.amazon.com/blogs/aws/new-enhanced-amazon-macie-now-available/) - Amazon Macie classifies data in S3 buckets either automatically or with user-defined regular expressions.
+
+**Azure / Defender**
+
+* [Defender Advanced Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) - Endpoint detection and reponse, behavioral blocking and containment, automated investigation and response, advanced threat hunting with analytics. 
+* [Azure Sentinel, a modern SIEM in the cloud](https://azure.microsoft.com/en-us/blog/azure-sentinel-general-availability-a-modern-siem-reimagined-in-the-cloud/) - Visualize data with workbooks and apply built-in machine learning algorithms for anomaly detection. Easier threat hunting with collection of hunting queries and Jupyter Notebooks.
+
+**CrowdStrike**
+
+* [CrowdStrike Falcon - Machine Learning scanner](https://go.technicalcommunities.com/webdata/pdf/CrowdStrike-The-Rise-of-Machine-Learning-in-Cybersecurity.pdf) - A part of Falcon endpoint protection, the scanner aims for searching of Indicators of Attack (IoA) instead of the usual Indicators of Compromise (IoC). This aims to provide information about intent and objective of potential attackers, which allows the defenders to prepare before security breaches occur. Falcon also comes with endpoint detection and reponse, threat hunting and threat intelligence tools.
+
+**FireEye**
+
+* [FireEye MalwareGuard](https://www.fireeye.com/blog/products-and-services/2018/07/malwareguard-fireeye-machine-learning-model-to-detect-and-prevent-malware.html) - A part of FireEye's Endpoint Security solution, MalwareGuard aims to prevent execution of zero-day malware that evades signature-based firewalls. 
+
+**Elastic**
+
+* [Elastic Machine Learning](https://www.elastic.co/what-is/elasticsearch-machine-learning) - Perform machine learning on data stored on Elasticsearch, can be integrated with SIEM and logs for detecting anomalies.
