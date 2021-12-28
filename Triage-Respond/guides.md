@@ -1,1 +1,2 @@
+* [Incident response playbooks](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks) - You need to respond quickly to detected security attacks to contain and remediate its damage. As new widespread cyberattacks happen, such as Nobellium and the Exchange Server vulnerability, Microsoft will respond with detailed incident response guidance.
 * [SANS posters & Cheat sheets of Digital Forensics and Incident Response](https://www.sans.org/posters/?focus-area=digital-forensics) - SANS posters & Cheat sheets of Digital Forensics and Incident Response
