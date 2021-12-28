@@ -1,0 +1,3 @@
+* [Feature Extractor](https://gitlab.com/CinCan/feature_extractor) - Feature Extractor is a tool that reduces analysts' workload when studying IoCs. Built during CinCan project.
+* [Flare](https://github.com/austin-taylor/flare) - A network analytical framework, which provides quick and easy-to-use tools to detect anomalies in network traffic. These include: beacon detection by identifying periodic activity, Domain generation algorithm (DGA) classifier, URL entropy and Levenshtein features.
+* [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Combine multiple threat intelligence sources into YARA rules and send them forward to MISP. Provides easy automation with simple configuration files.
