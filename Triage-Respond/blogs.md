@@ -1,0 +1,2 @@
+* [Deploy the containerized GRR to unmask the intruders](https://jyvsectec.fi/2020/04/deploy-the-containerized-grr-to-unmask-the-intruders/) - The first post of series focusing on containerized GRR Rapid Response revealing in-depth details how to use tool in real-world scenarios
+* [Carry out investigations remotely using containerized GRR](https://jyvsectec.fi/2020/05/carry-out-investigations-remotely-using-containerized-grr/)
