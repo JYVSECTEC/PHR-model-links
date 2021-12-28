@@ -4,5 +4,6 @@
 * [Incident management guide for healthcare organizations](https://jyvsectec.fi/wp-content/uploads/2020/12/kyberhairioiden-hallinta-kasikirja-terveydenhuollon-toimijoille.pdf) - Freely available incident management guide targeted for the Finnish healthcare organizations and operators by JYVSECTEC
 * [SANS Posters & Cheat Sheets](https://www.sans.org/posters/) - Comprehensive collection of SANS's posters and Cheat sheets in various areas of cyber security
 * [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected. All of the included scenarios, insights and comments are based on experiences from the contributors during their attack simulations, hands-on or real-world scenarios.
+* [Top 20 Dockerfile best practices](https://sysdig.com/blog/dockerfile-best-practices/) - Learn how to prevent security issues and optimize containerized applications by applying a quick set of Dockerfile best practices in your image builds.
 
 
