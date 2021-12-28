@@ -1,0 +1,2 @@
+* [How to create and maintain Jupyter threat hunting notebooks](https://expel.io/blog/how-to-create-maintain-jupyter-threat-hunting-notebooks/) - Setup a Jupyter Notebook server with threat hunting notebook templates using Docker.
+* [Threat Hunting with Jupyter Notebooks](https://posts.specterops.io/threat-hunting-with-jupyter-notebooks-part-1-your-first-notebook-9a99a781fde7) - A blog series that contains a basic tutorial for Jupyter Notebooks, data analysis with pandas and Apache Spark and SparkSQL usage for querying Elasticsearch databases and combining security events.
