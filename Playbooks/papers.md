@@ -1,0 +1,1 @@
+* [Data-driven Threat Hunting using Sysmon](https://www.researchgate.net/publication/325370335_Data-Driven_Threat_Hunting_Using_Sysmon) - A paper proposing a threat assessment system that is updated with new threat information and is able to detect threats what would otherwise go undetected past intrusion detection systems, such as encrypted traffic.
