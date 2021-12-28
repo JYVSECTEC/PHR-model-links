@@ -4,9 +4,9 @@
 * [theZoo](https://github.com/ytisf/theZoo) - An open malware repository, can be used for the same use cases as VirusShare dataset.
 * [Windows EVTX Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows event logs from different types of attacks, mapped to MITRE ATT&CK tactics. Useful for practicing log analysis and threat hunting.
 * [Kybermittari](https://www.kyberturvallisuuskeskus.fi/fi/palvelumme/tilannekuva-ja-verkostojohtaminen/kybermittari) - Incident management and handling tool for Finnish organizations by NSCS-FI
-* [Infection Monkey](https://github.com/guardicore/monkey)- An open-source automated penetration testing tool. The tool utilizes a server to command and visualize the exploitation of vulnerable devices in the network. The tool generates a overview security report, a zero trust report and a list of MITRE ATT&CK techniques used. 
-* [Wazuh](https://wazuh.com/)- Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
-* [Snort](https://www.snort.org/)- It is an open source intrusion prevention system capable of real-time traffic analysis and packet logging.
+* [Infection Monkey](https://github.com/guardicore/monkey) - An open-source automated penetration testing tool. The tool utilizes a server to command and visualize the exploitation of vulnerable devices in the network. The tool generates a overview security report, a zero trust report and a list of MITRE ATT&CK techniques used. 
+* [Wazuh](https://wazuh.com/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
+* [Snort](https://www.snort.org/) - It is an open source intrusion prevention system capable of real-time traffic analysis and packet logging.
 * [Elastic SIEM](https://www.elastic.co/siem) - Everything you love about the free and open Elastic Stack — geared toward security information and event management (SIEM). Leverage the speed, scale, and relevance of Elastic SIEM to drive your security operations and threat hunting.
 
 ### AI-enhanced security tools
