@@ -4,3 +4,4 @@
 * [OCTAVE®-S Implementation Guide, Version 1.0](https://resources.sei.cmu.edu/asset_files/Handbook/2005_002_001_14273.pdf) - OCTAVE-S 1.0 implementation guide.
 * [OWASP Testing Guide v4](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf) - OWASP testing guide version 4.0.
 * [WSTG - v4.1](https://owasp.org/www-project-web-security-testing-guide/v41/) - OWASP web security testing guide version 4.1.
+* [THREAT MODELING MANIFESTO](https://www.threatmodelingmanifesto.org) - Use the Manifesto as a guide to develop or refine a methodology that best fits your needs. We believe that following the guidance in the Manifesto will result in more effective and more productive threat modeling. In turn, this will help you to successfully develop more secure applications, systems, and organizations and protect them from threats to your data and services. The Manifesto contains ideas, but is not a how-to, and is methodology-agnostic.
