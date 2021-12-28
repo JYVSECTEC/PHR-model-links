@@ -4,3 +4,5 @@
 * [NIST Special Publication 800-115 - Technical Guide to Information Security Testing and Assessment](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
 * [100 Popular Open-Source Infosec Tools](http://jultika.oulu.fi/files/nbnfi-fe2021100149105.pdf)
 * [Ransomware attacks, all concerned: How to prevent them and respond to an incident](https://www.ssi.gouv.fr/uploads/2021/08/anssi-guide-ransomware_attacks_all_concerned-v1.0.pdf)
+* [RGCE - Realistic Global Cyber Environment](https://jyvsectec.fi/wp-content/uploads/2018/10/JYVSECTEC-cyber-range.pdf) - Fully functional isolated Internet, run, hosted, and developed by JYVSECTEC
+* [Quantifying Threat Actor Assessments](https://www.sans.org/white-papers/39585/) - Research introducing Threat Box that visualizes different threats intent and capabilities.
