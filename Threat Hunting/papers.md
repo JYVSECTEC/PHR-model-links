@@ -1,1 +1,3 @@
 * [Data-driven Threat Hunting using Sysmon](https://www.researchgate.net/publication/325370335_Data-Driven_Threat_Hunting_Using_Sysmon) - A paper proposing a threat assessment system that is updated with new threat information and is able to detect threats what would otherwise go undetected past intrusion detection systems, such as encrypted traffic.
+* [Cyber Threat Hunting Workshop materials by Digit Oktavianto](https://www.itu.int/en/ITU-D/Cybersecurity/Documents/CyberDrill-2020/Cyber%20Threat%20Hunting%20Workshop%20-%20ITU%2019112020.pdf) - Workshop Agenda: 1. Threat Hunting, 2. Threat Intelligence, 3. Honeypot
+* 
