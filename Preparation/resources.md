@@ -1,28 +1,12 @@
-**Guides**
 
-* [National Security Agency - End User Telework and Network Security Guides and Top Ten Cybersecurity Mitigation Strategies](https://www.nsa.gov/Press-Room/Telework-and-Mobile-Security-Guidance/)
 
 **Reports**
 
 * [Red Canary 2021 Threat Detection Report](https://redcanary.com/threat-detection-report/)
 * [Malwarebytes - State of Malware Report 2021](https://www.malwarebytes.com/resources/files/2021/04/mwb_stateofmalware2021_exec-summary_with-cta_final.pdf)
 
-**Tools**
 
-* [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
-* [whids: Open source EDR for Windows](https://github.com/0xrawsec/whids)
-* [APTSimulator](https://github.com/NextronSystems/APTSimulator)
-* [Project Freda. Free Linux Forensics and Rootkit Malware Detection](https://www.microsoft.com/en-us/research/blog/toward-trusted-sensing-for-the-cloud-introducing-project-freta/)
-* [OSINT Framework](https://osintframework.com/)
-* [Cincan](https://cincan.io/)
-* [Cincan infosec tools](https://cincan.gitlab.io/infosec-tools/)
-* [OpenCTI](https://www.opencti.io/en/)
-* [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md)
 
-**White papers**
-
-* [RGCE - Realistic Global Cyber Environment](https://jyvsectec.fi/wp-content/uploads/2018/10/JYVSECTEC-cyber-range.pdf) - Fully functional isolated Internet, run, hosted, and developed by JYVSECTEC
-* [Quantifying Threat Actor Assessments](https://www.sans.org/white-papers/39585/) - Research introducing Threat Box that visualizes different threats intent and capabilities.
 
 **Webinars**
 
@@ -32,11 +16,6 @@
 
 * [SANS Webcasts](https://www.sans.org/webcasts/)
 
-**Publications**
-
-* [NIST Special Publication 800-115 - Technical Guide to Information Security Testing and Assessment](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
-* [100 Popular Open-Source Infosec Tools](http://jultika.oulu.fi/files/nbnfi-fe2021100149105.pdf)
-* [Ransomware attacks, all concerned: How to prevent them and respond to an incident](https://www.ssi.gouv.fr/uploads/2021/08/anssi-guide-ransomware_attacks_all_concerned-v1.0.pdf)
 
 **Blogs**
 
