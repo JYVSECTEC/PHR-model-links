@@ -3,5 +3,5 @@
 * [How to Detect DNS Tunneling in the Network?](https://www.catonetworks.com/blog/how-to-detect-dns-tunneling-in-the-network/) - Blog post on how to detect DNS tunneling in network
 * [No Logs? No Problem! Incident Response without Windows Event Logs](https://labs.jumpsec.com/no-logs-no-problem-incident-response-without-windows-event-logs/) - In this article, we discuss some Digital Forensics and Incident Response (DFIR) techniques you can leverage when you encounter an environment without Windows event logs.
 * [What I wish someone had told me when I started learning about File System Forensics](https://osdfir.blogspot.com/2021/02/what-i-wish-someone-had-told-me-when-i.html) - If you’re new to Digital Forensics a first question you might be asking is: why do I need to learn how file systems work as a digital forensics analyst? And how much do I need to know about it?
-
+* [PowerShell Commands for Incident Response](https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/) - We will learn different PowerShell Commands can be used in Incident Response to remediate the machine. I will take a real world scenario where a machine is infected with malware e.g. NanoCore RAT to explain this PowerShell Commands.
 
