@@ -1,26 +1,20 @@
-
-
 **Reports**
 
 * [Red Canary 2021 Threat Detection Report](https://redcanary.com/threat-detection-report/)
 * [Malwarebytes - State of Malware Report 2021](https://www.malwarebytes.com/resources/files/2021/04/mwb_stateofmalware2021_exec-summary_with-cta_final.pdf)
-
-
-
 
 **Webinars**
 
 * [Machine Learning Use Cases for Cybersecurity](https://youtu.be/jmVPLwjm_zs) - A talk by Chris Davis, provides a good overview of machine learning and how it can be applied to cyber security.
 * [Leveraging TheHive & Cortex for automated incident response](https://www.youtube.com/watch?v=K6K1fNpbf9w) - A SANS webcast introducing TheHive incident response framework with a usage demonstration.
 * [Faster, Better, AND Cheaper: Improving security operations using open source tools](https://www.youtube.com/watch?v=jhOpV9eEeb0) - A SANS webcast listing a number of open source tools for a complete security operations center solution. The SOC solution includes gathering network traffic, host logs and threat information to Elastic stack, alerts are generated using Sigma rules and the incident management and response is automated with TheHive and Cortex.
-
 * [SANS Webcasts](https://www.sans.org/webcasts/)
-
 
 **Training**
 
 * [Cyber Defenders BlueYard: Practise Offline CTF Challenges](https://cyberdefenders.org/labs/)
 * [SANS Summit Presentations](https://www.sans.org/presentations/) - Archive of presentations from SANS's summits. Excellent resource to train yourself on various topics
+* [Jyväskylän yliopiston ja maanpuolustuskorkeakoulun kyberturvallisuuden taskutieto (FI)](https://www.jyu.fi/it/fi/opiskelu/maisteriohjelmat/kyberturvallisuus/kyberturvallisuuden-taskutieto-1)
 
 **Books**
 
